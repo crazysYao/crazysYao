@@ -51,12 +51,3 @@
 - DevOps best practices & CI/CD pipelines
 - Harness platform
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=crazysyao&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center"><i>Open to new opportunities — feel free to reach out!</i></p>
