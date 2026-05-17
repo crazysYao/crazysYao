@@ -1,0 +1,4 @@
+.DS_Store
+
+# Playwright MCP debug artifacts(本地驗證用,不入 git)
+.playwright-mcp/
