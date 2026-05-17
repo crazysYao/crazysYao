@@ -1,3 +1,8 @@
+<!-- SMOKE TEST · TO BE REMOVED -->
+<p align="center">
+  <img src="assets/smoke-test.gif" alt="smoke test" width="200" />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=540&lines=Hi%2C+I'm+YAO+%F0%9F%91%8B;Full-Stack+Developer;TypeScript+%26+Vue+Enthusiast;Always+Learning" alt="Typing SVG" />
 </h1>
